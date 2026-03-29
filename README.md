@@ -66,8 +66,8 @@ If Python is not installed, download it from: https://www.python.org/downloads/
 **Step 1 — Clone or download the repository**
 
 ```bash
-git clone <your-repo-link>
-cd stress-predictor
+git clone https://github.com/palak25bce10920-ship-it/student_stress_predictor
+
 ```
 
 **Step 2 — (Optional but recommended) Create a virtual environment**
